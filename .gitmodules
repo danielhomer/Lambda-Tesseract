@@ -1,0 +1,3 @@
+[submodule "Tesseract-CentOS"]
+	path = Tesseract-CentOS
+	url = git@github.com:danielhomer/Tesseract-CentOS.git
